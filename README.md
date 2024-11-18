@@ -13,7 +13,7 @@ Software development student at Oulu University of Applied Sciences. 👨‍🎓
 
 
 
-## Working towards full-stack developer 💻
+## Skills 💻
 
 <div style="display: flex; flex-wrap: wrap; gap: 100px;">
   <div style="display: flex; justify-content: space-between; gap: 100px; width: 200%;">
