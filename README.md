@@ -2,19 +2,21 @@
 
 ## <p align="left"> <img src="https://komarev.com/ghpvc/?username=keraneneelis10&label=Profile%20views&color=0e75b6&style=flat" alt="keraneneelis10" /> </p>
 
+##
+Software development student at Oulu University of Applied Sciences.
+##
 
 
 
-
-- 🔭 Currently working on backend of a school project
-- 🌱 Learning typeScript
+- 🔭 Currently working on a backend of a react app
+- 🌱 Learning typeScript at the moment
 - 📫 How to reach me: LinkedIn
 - ⚡ Fun fact: I have never tasted omlette 🍳
 
 
 
 
-## My stack at the moment 💻
+## Working towards full-stack developer 💻
 
 <div style="display: flex; flex-wrap: wrap; gap: 100px;">
   <div style="display: flex; justify-content: space-between; gap: 100px; width: 200%;">
