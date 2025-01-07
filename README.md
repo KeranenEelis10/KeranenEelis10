@@ -5,7 +5,7 @@ Software development student at Oulu University of Applied Sciences. 👨‍🎓
 
 
 
-- 🔭 Currently working on a backend of a react app
+- 🔭 Currently finishing my last mandatory courses and applying to internships
 - 🌱 Learning typeScript at the moment
 - 📫 How to reach me: LinkedIn
 - ⚡ Fun fact: I have never tasted omlette 🍳
