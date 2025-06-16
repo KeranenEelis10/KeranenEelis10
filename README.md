@@ -5,8 +5,8 @@ Software development student at Oulu University of Applied Sciences. 👨‍🎓
 
 
 
-- 🔭 Currently finishing my last mandatory courses and applying to internships
-- 🌱 Learning typeScript at the moment
+- 🔭 Starting my thesis in August and applying to jobs at the moment
+- 🌱 Learning more about C# right now
 - 📫 How to reach me: LinkedIn
 - ⚡ Fun fact: I have never tasted omlette 🍳
 
